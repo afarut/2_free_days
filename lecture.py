@@ -11,6 +11,8 @@ import sys
 
 
 
+
+
 def go_to_lecture(link):
     options = webdriver.ChromeOptions()
     options.add_argument("--disable-blink-features")
